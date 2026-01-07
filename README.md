@@ -70,4 +70,13 @@ This ensures the AI output remains factual, grounded, and auditable.
 
 ## Repository Structure
 
+├── data/
+│ └── US Superstore data.xls
+│
+├── notebook/
+│ └── monthly_insight_demo.ipynb
+│
+├── README.md
+└── .gitignore
+
 
