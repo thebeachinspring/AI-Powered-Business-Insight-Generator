@@ -68,6 +68,6 @@ This ensures the AI output remains factual, grounded, and auditable.
 
 ---
 
-This is a demo only using open source data from Kaggel 
+This is a demo only using open source data from Kaggle
 
 
